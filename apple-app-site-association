@@ -1,13 +1,15 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "2YQ2MY878R.ru.sbertelecom.app",
-        "paths": [
-          ["/sberprime/*"]
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "2YQ2MY878R.ru.sbertelecom.app",
+                "paths": [ "/wwdc/news/", "/videos/wwdc/2015/*"]
+            },
+            {
+                "appID": "2YQ2MY878R.ru.sbertelecom.app",
+                "paths": [ "*" ]
+            }
         ]
-      }
-    ]
-  }
+    }
 }
